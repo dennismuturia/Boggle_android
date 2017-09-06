@@ -15,6 +15,7 @@
 ## Technologies used     
     Android
 ## Additional statements
-    COntributions are higly appreciated
+    Contributions are higly appreciated
 ## License
+    [GPL LIcense](license)
     
